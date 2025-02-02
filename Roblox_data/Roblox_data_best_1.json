@@ -1,0 +1,46 @@
+{
+    "games": [
+        {
+            "title": "Blox Roblox",
+            "imageUrl": "https://raw.githubusercontent.com/Agram56/Traffics_2025/main/Roblox_data/Barry_panel.png",
+            "iconUrl": "https://raw.githubusercontent.com/Agram56/Traffics_2025/main/Roblox_data/Barry_panel.png",
+            "link": "https://play.google.com/store/apps/details?id=com.roblox.client&hl=en",
+            "isClickable": true
+        },
+        {
+            "title": "Blox Roblox",
+            "imageUrl": "https://raw.githubusercontent.com/NovaGames911/NovaGames/main/R1.png",
+            "iconUrl": "https://raw.githubusercontent.com/NovaGames911/NovaGames/main/Robloxicon.png",
+            "link": "https://play.google.com/store/apps/details?id=com.roblox.client&hl=en",
+            "isClickable": true
+        },
+        {
+            "title": "Blox Roblox",
+            "imageUrl": "https://raw.githubusercontent.com/NovaGames911/NovaGames/main/R1.png",
+            "iconUrl": "https://raw.githubusercontent.com/NovaGames911/NovaGames/main/Robloxicon.png",
+            "link": "https://play.google.com/store/apps/details?id=com.roblox.client&hl=en",
+            "isClickable": true
+        },
+        {
+            "title": "Blox Roblox",
+            "imageUrl": "https://raw.githubusercontent.com/NovaGames911/NovaGames/main/R1.png",
+            "iconUrl": "https://raw.githubusercontent.com/NovaGames911/NovaGames/main/Robloxicon.png",
+            "link": "https://play.google.com/store/apps/details?id=com.roblox.client&hl=en",
+            "isClickable": true
+        },
+        {
+            "title": "Pet Simulator X",
+            "imageUrl": "https://raw.githubusercontent.com/NovaGames911/NovaGames/main/comingsoon.png",
+            "iconUrl": "https://raw.githubusercontent.com/NovaGames911/NovaGames/main/Robloxicon.png",
+            "link": "https://play.google.com/store/apps/details?id=com.minicraft.pro&hl=en",
+            "isClickable": false
+        },
+        {
+            "title": "Pet Simulator X",
+            "imageUrl": "https://raw.githubusercontent.com/NovaGames911/NovaGames/main/comingsoon.png",
+            "iconUrl": "https://raw.githubusercontent.com/NovaGames911/NovaGames/main/Robloxicon.png",
+            "link": "https://play.google.com/store/apps/details?id=com.minicraft.pro&hl=en",
+            "isClickable": false
+        }
+    ]
+}
