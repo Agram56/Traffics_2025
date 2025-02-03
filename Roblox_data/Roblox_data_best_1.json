@@ -3,14 +3,14 @@
         {
             "title": "BARRY PRISON RUN!",
             "imageUrl": "https://raw.githubusercontent.com/Agram56/Traffics_2025/main/Roblox_data/Barry_panel.png",
-            "iconUrl": "https://raw.githubusercontent.com/Agram56/Traffics_2025/main/Roblox_data/Barry_panel.png",
+            "iconUrl": "https://raw.githubusercontent.com/Agram56/Traffics_2025/main/Roblox_data/barry_icon.png",
             "link": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0DVPZRNLZ",
             "isClickable": true
         },
         {
             "title": "Escape Grandma Obby",
             "imageUrl": "https://raw.githubusercontent.com/Agram56/Traffics_2025/main/Roblox_data/grandma_panel.png",
-            "iconUrl": "https://raw.githubusercontent.com/Agram56/Traffics_2025/main/Roblox_data/grandma_panel.png",
+            "iconUrl": "https://raw.githubusercontent.com/Agram56/Traffics_2025/main/Roblox_data/grandma_icon.png",
             "link": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0DVRNWXP7",
             "isClickable": true
         },
