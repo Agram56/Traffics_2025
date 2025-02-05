@@ -22,11 +22,11 @@
             "isClickable": true
         },
         {
-            "title": "Coming Soon",
-            "imageUrl": "https://raw.githubusercontent.com/NovaGames911/NovaGames/main/R1.png",
-            "iconUrl": "https://raw.githubusercontent.com/NovaGames911/NovaGames/main/Robloxicon.png",
-            "link": "https://play.google.com/store/apps/details?id=com.roblox.client&hl=en",
-            "isClickable": false
+            "title": "Adopt Me !",
+            "imageUrl": "https://raw.githubusercontent.com/Agram56/Traffics_2025/main/Roblox_data/pet_panel.png",
+            "iconUrl": "https://raw.githubusercontent.com/Agram56/Traffics_2025/main/Roblox_data/pet_icon.png",
+            "link": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0DW1TLGTZ",
+            "isClickable": true
         },
         {
             "title": "Coming Soon",
