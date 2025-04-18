@@ -13,7 +13,7 @@
             "buttonId": "button3"
         },
         "Mod_4": {
-            "url": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0DZTQTTM5",
+            "url": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0DNY1Y2GB",
             "buttonId": "button4"
         },
         "Mod_5": {
@@ -25,7 +25,7 @@
             "buttonId": "button6"
         },
         "Mod_7": {
-            "url": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0DZVPW9WG",
+            "url": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0DNY1Y2GB",
             "buttonId": "button7"
         },
         "Mod_8": {
@@ -33,7 +33,7 @@
             "buttonId": "button8"
         },
         "Mod_9": {
-            "url": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0DZPCZ6HQ",
+            "url": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0DNY1Y2GB",
             "buttonId": "button9"
         }
     }
