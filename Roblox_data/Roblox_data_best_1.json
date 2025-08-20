@@ -60,21 +60,21 @@
             "title": "Escape Circus Prison",
             "imageUrl": "https://raw.githubusercontent.com/Agram56/Traffics_2025/refs/heads/main/Roblox_data/circus_icon.png",
             "iconUrl": "https://raw.githubusercontent.com/Agram56/Traffics_2025/refs/heads/main/Roblox_data/circus_cover.png",
-            "link": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0DW48CBDX",
-            "isClickable": false
+            "link": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0FN4QCYHH",
+            "isClickable": true
         },
         {
             "title": "Skateboard Obby Parkour",
             "imageUrl": "https://raw.githubusercontent.com/Agram56/Traffics_2025/refs/heads/main/Roblox_data/cover_parkour.png",
             "iconUrl": "https://raw.githubusercontent.com/Agram56/Traffics_2025/refs/heads/main/Roblox_data/icon_parkour.png",
-            "link": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0DW48CBDX",
-            "isClickable": false
+            "link": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0DQ2MN3RK",
+            "isClickable": true
         },
         {
             "title": "Coming Soon",
             "imageUrl": "https://raw.githubusercontent.com/Agram56/Traffics_2025/main/Roblox_data/coming_soon.png",
             "iconUrl": "https://raw.githubusercontent.com/NovaGames911/NovaGames/main/Robloxicon.png",
-            "link": "https://play.google.com/store/apps/details?id=com.minicraft.pro&hl=en",
+            "link": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0DQ2MN3RK",
             "isClickable": false
         }
     ]
