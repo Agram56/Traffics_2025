@@ -57,11 +57,18 @@
             "isClickable": true
         },
         {
-            "title": "Grandma House Escape",
-            "imageUrl": "https://raw.githubusercontent.com/Agram56/Traffics_2025/refs/heads/main/Roblox_data/grandma_panel.png",
-            "iconUrl": "https://raw.githubusercontent.com/Agram56/Traffics_2025/refs/heads/main/Roblox_data/grandma_icon.png",
+            "title": "Escape Circus Prison",
+            "imageUrl": "https://raw.githubusercontent.com/Agram56/Traffics_2025/refs/heads/main/Roblox_data/circus_icon.png",
+            "iconUrl": "https://raw.githubusercontent.com/Agram56/Traffics_2025/refs/heads/main/Roblox_data/circus_cover.png",
             "link": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0DW48CBDX",
-            "isClickable": true
+            "isClickable": false
+        },
+        {
+            "title": "Skateboard Obby Parkour",
+            "imageUrl": "https://raw.githubusercontent.com/Agram56/Traffics_2025/refs/heads/main/Roblox_data/cover_parkour.png",
+            "iconUrl": "https://raw.githubusercontent.com/Agram56/Traffics_2025/refs/heads/main/Roblox_data/icon_parkour.png",
+            "link": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0DW48CBDX",
+            "isClickable": false
         }
     ]
 }
