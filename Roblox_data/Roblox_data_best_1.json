@@ -71,11 +71,11 @@
             "isClickable": true
         },
         {
-            "title": "Coming Soon",
-            "imageUrl": "https://raw.githubusercontent.com/Agram56/Traffics_2025/main/Roblox_data/coming_soon.png",
-            "iconUrl": "https://raw.githubusercontent.com/NovaGames911/NovaGames/main/Robloxicon.png",
-            "link": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0DQ2MN3RK",
-            "isClickable": false
+            "title": "Granny",
+            "imageUrl": "https://raw.githubusercontent.com/Agram56/Traffics_2025/refs/heads/main/Roblox_data/granny_cover.png",
+            "iconUrl": "https://raw.githubusercontent.com/Agram56/Traffics_2025/refs/heads/main/Roblox_data/granny_icon.png",
+            "link": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0DQ5KP4GR",
+            "isClickable": true
         }
     ]
 }
