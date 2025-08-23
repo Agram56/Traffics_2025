@@ -13,8 +13,8 @@
         },
         {
             "imageUrl": "https://raw.githubusercontent.com/Agram56/Traffics_2025/refs/heads/main/Minecraft/Minecraft_data/Pixelmon_cover.png",
-            "link": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0DK47576",
-            "isClickable": false
+            "link": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0FNKH3BL2",
+            "isClickable": true
         },
         {
             "imageUrl": "https://raw.githubusercontent.com/Agram56/Traffics_2025/refs/heads/main/Minecraft/Minecraft_data/car_vehicle_cover.png",
@@ -33,8 +33,8 @@
         },
         {
             "imageUrl": "https://raw.githubusercontent.com/Agram56/Traffics_2025/refs/heads/main/Minecraft/Minecraft_data/mutant_cover.png",
-            "link": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0DK47576",
-            "isClickable": false
+            "link": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0FNKFXMCL",
+            "isClickable": true
         }
     ]
 }
