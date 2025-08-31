@@ -15,10 +15,10 @@
             "isClickable": true
         },
         {
-            "title": "Escape Grandma Obby",
-            "imageUrl": "https://raw.githubusercontent.com/Agram56/Traffics_2025/main/Roblox_data/grandma_panel.png",
-            "iconUrl": "https://raw.githubusercontent.com/Agram56/Traffics_2025/main/Roblox_data/grandma_icon.png",
-            "link": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0DW48CBDX",
+            "title": "Dress To Impress",
+            "imageUrl": "https://raw.githubusercontent.com/Agram56/Traffics_2025/refs/heads/main/Roblox_data/Dress_to_cover.png",
+            "iconUrl": "https://raw.githubusercontent.com/Agram56/Traffics_2025/refs/heads/main/Roblox_data/Dress_to_icon.png",
+            "link": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0FP9CJVW9",
             "isClickable": true
         },
         {
@@ -82,6 +82,13 @@
             "imageUrl": "https://raw.githubusercontent.com/Agram56/Traffics_2025/refs/heads/main/Roblox_data/granny_cover.png",
             "iconUrl": "https://raw.githubusercontent.com/Agram56/Traffics_2025/refs/heads/main/Roblox_data/granny_icon.png",
             "link": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0DQ5KP4GR",
+            "isClickable": true
+        },
+        {
+            "title": "Escape Grandma Obby",
+            "imageUrl": "https://raw.githubusercontent.com/Agram56/Traffics_2025/main/Roblox_data/grandma_panel.png",
+            "iconUrl": "https://raw.githubusercontent.com/Agram56/Traffics_2025/main/Roblox_data/grandma_icon.png",
+            "link": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0DW48CBDX",
             "isClickable": true
         }
     ]
