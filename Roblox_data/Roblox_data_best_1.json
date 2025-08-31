@@ -1,6 +1,13 @@
 {
     "games": [
         {
+            "title": "Steal a Brainrot",
+            "imageUrl": "https://raw.githubusercontent.com/Agram56/Traffics_2025/refs/heads/main/Roblox_data/Steal_the_cover.png",
+            "iconUrl": "https://raw.githubusercontent.com/Agram56/Traffics_2025/refs/heads/main/Roblox_data/Steal_the_icon.png",
+            "link": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0BXQ6XFZL",
+            "isClickable": true
+        },
+        {
             "title": "BARRY PRISON RUN!",
             "imageUrl": "https://raw.githubusercontent.com/Agram56/Traffics_2025/main/Roblox_data/Barry_panel.png",
             "iconUrl": "https://raw.githubusercontent.com/Agram56/Traffics_2025/main/Roblox_data/barry_icon.png",
