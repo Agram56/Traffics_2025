@@ -32,7 +32,7 @@
             "title": "Adopt Me !",
             "imageUrl": "https://raw.githubusercontent.com/Agram56/Traffics_2025/main/Roblox_data/pet_panel.png",
             "iconUrl": "https://raw.githubusercontent.com/Agram56/Traffics_2025/main/Roblox_data/pet_icon.png",
-            "link": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0DW1TLGTZ",
+            "link": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0CWKHF9VR",
             "isClickable": true
         },
         {
@@ -68,7 +68,7 @@
             "imageUrl": "https://raw.githubusercontent.com/Agram56/Traffics_2025/refs/heads/main/Roblox_data/circus_cover.png",
             "iconUrl": "https://raw.githubusercontent.com/Agram56/Traffics_2025/refs/heads/main/Roblox_data/circus_icon.png",
             "link": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0FN4QCYHH",
-            "isClickable": true
+            "isClickable": false
         },
         {
             "title": "Skateboard Obby Parkour",
