@@ -1,9 +1,10 @@
 {
-    "Link1": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0FM4PQ2QF",
-    "Link2": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0FM4PQ2QF",
-    "Link3": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0F4PPKKDR",
+    "Link1": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0F9LJ95R7",
+    "Link2": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0F9LJ95R7",
+    "Link3": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0F9LJ95R7",
 
     "ShowUpcomingUpdatePanel": "false"
 }
+
 
 
