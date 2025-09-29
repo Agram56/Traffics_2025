@@ -29,10 +29,10 @@
             "isClickable": true
         },
         {
-            "title": "Adopt Me !",
-            "imageUrl": "https://raw.githubusercontent.com/Agram56/Traffics_2025/main/Roblox_data/pet_panel.png",
-            "iconUrl": "https://raw.githubusercontent.com/Agram56/Traffics_2025/main/Roblox_data/pet_icon.png",
-            "link": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0CWKHF9VR",
+            "title": "Grow a Garden",
+            "imageUrl": "https://raw.githubusercontent.com/Agram56/Traffics_2025/refs/heads/main/Roblox_data/cover_garden.png",
+            "iconUrl": "https://raw.githubusercontent.com/Agram56/Traffics_2025/refs/heads/main/Roblox_data/icon_garden.png",
+            "link": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0FT1F6G47",
             "isClickable": true
         },
         {
