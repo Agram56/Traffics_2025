@@ -71,11 +71,11 @@
             "isClickable": true
         },
         {
-            "title": "Skateboard Obby Parkour",
-            "imageUrl": "https://raw.githubusercontent.com/Agram56/Traffics_2025/refs/heads/main/Roblox_data/cover_parkour.png",
-            "iconUrl": "https://raw.githubusercontent.com/Agram56/Traffics_2025/refs/heads/main/Roblox_data/icon_parkour.png",
-            "link": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0DQ2MN3RK",
-            "isClickable": false
+            "title": "Bike Obby Parkour",
+            "imageUrl": "https://raw.githubusercontent.com/Agram56/Traffics_2025/refs/heads/main/Roblox_data/bike_cover_2.png",
+            "iconUrl": "https://raw.githubusercontent.com/Agram56/Traffics_2025/refs/heads/main/Roblox_data/icon_cover.png",
+            "link": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0D1P74LGS",
+            "isClickable": true
         },
         {
             "title": "Granny",
