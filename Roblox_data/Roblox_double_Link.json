@@ -71,12 +71,32 @@
             "isClickable": true
         },
         {
-            "title": "Pet Simulator X",
-            "imageUrl": "https://raw.githubusercontent.com/NovaGames911/NovaGames/main/R1.png",
-            "iconUrl": "https://raw.githubusercontent.com/NovaGames911/NovaGames/main/Robloxicon.png",
+            "title": "Escape Circus Prison",
+            "imageUrl": "https://raw.githubusercontent.com/Agram56/Traffics_2025/refs/heads/main/Roblox_data/circus_cover.png",
+            "iconUrl": "https://raw.githubusercontent.com/Agram56/Traffics_2025/refs/heads/main/Roblox_data/circus_icon.png",
             "links": [
-                "https://play.google.com/store/apps/details?id=com.minicraft.pro&hl=en",
-                "https://apps.apple.com/us/app/minicraft-exploration/id1234567890"
+                "amzn://apps/android?initiatePurchaseFlow=true&asin=B0DPN6681K",
+                "amzn://apps/android?initiatePurchaseFlow=true&asin=B0DPN6681K"
+            ],
+            "isClickable": true
+        },
+        {
+           "title": "Granny",
+            "imageUrl": "https://raw.githubusercontent.com/Agram56/Traffics_2025/refs/heads/main/Roblox_data/granny_cover.png",
+            "iconUrl": "https://raw.githubusercontent.com/Agram56/Traffics_2025/refs/heads/main/Roblox_data/granny_icon.png",
+            "links": [
+                "amzn://apps/android?initiatePurchaseFlow=true&asin=B0DQ5KP4GR",
+                "amzn://apps/android?initiatePurchaseFlow=true&asin=B0DQ5KP4GR"
+            ],
+            "isClickable": true
+        },
+        {
+            "title": "Escape Grandma Obby",
+            "imageUrl": "https://raw.githubusercontent.com/Agram56/Traffics_2025/main/Roblox_data/grandma_panel.png",
+            "iconUrl": "https://raw.githubusercontent.com/Agram56/Traffics_2025/main/Roblox_data/grandma_icon.png",
+            "links": [
+                "amzn://apps/android?initiatePurchaseFlow=true&asin=B0DW48CBDX",
+                "amzn://apps/android?initiatePurchaseFlow=true&asin=B0DW48CBDX"
             ],
             "isClickable": true
         }
