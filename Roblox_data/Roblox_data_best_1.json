@@ -22,11 +22,11 @@
             "isClickable": true
         },
         {
-            "title": "Escape Papa Pizza's Pizzeria!",
-            "imageUrl": "https://raw.githubusercontent.com/Agram56/Traffics_2025/main/Roblox_data/pizza_panel.png",
-            "iconUrl": "https://raw.githubusercontent.com/Agram56/Traffics_2025/main/Roblox_data/pizza_panel.png",
-            "link": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0D2MDD8ZT",
-            "isClickable": false
+            "title": "99 Nights in the Forest",
+            "imageUrl": "https://raw.githubusercontent.com/Agram56/Traffics_2025/refs/heads/main/Roblox_data/99_cover.png",
+            "iconUrl": "https://raw.githubusercontent.com/Agram56/Traffics_2025/refs/heads/main/Roblox_data/99_icon.png",
+            "link": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0FX1F67HS",
+            "isClickable": true
         },
         {
             "title": "Grow a Garden",
