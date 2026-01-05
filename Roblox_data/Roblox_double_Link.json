@@ -45,8 +45,8 @@
             "imageUrl": "https://raw.githubusercontent.com/Agram56/Traffics_2025/refs/heads/main/Roblox_data/cover_garden.png",
             "iconUrl": "https://raw.githubusercontent.com/Agram56/Traffics_2025/refs/heads/main/Roblox_data/icon_garden.png",
             "links": [
-                "https://play.google.com/store/apps/details?id=com.minicraft.pro&hl=en",
-                "https://apps.apple.com/us/app/minicraft-exploration/id1234567890"
+                "amzn://apps/android?initiatePurchaseFlow=true&asin=B0GDY84B4Z",
+                "amzn://apps/android?initiatePurchaseFlow=true&asin=B0GDY84B4Z"
             ],
             "isClickable": true
         },
