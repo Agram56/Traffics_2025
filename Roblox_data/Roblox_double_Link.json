@@ -6,7 +6,7 @@
             "iconUrl": "https://raw.githubusercontent.com/Agram56/Traffics_2025/refs/heads/main/Roblox_data/Steal_the_icon.png",
             "links": [
                 "amzn://apps/android?initiatePurchaseFlow=true&asin=B0FJMPMZ3P",
-                "amzn://apps/android?initiatePurchaseFlow=true&asin=B0FJMPMZ3P"
+                "amzn://apps/android?initiatePurchaseFlow=true&asin=B0BXQ6XFZL"
             ],
             "isClickable": true
         },
@@ -16,7 +16,7 @@
             "iconUrl": "https://raw.githubusercontent.com/Agram56/Traffics_2025/main/Roblox_data/barry_icon.png",
             "links": [
                 "amzn://apps/android?initiatePurchaseFlow=true&asin=B0DVPZRNLZ",
-                "amzn://apps/android?initiatePurchaseFlow=true&asin=B0DW48KZD3"
+                "amzn://apps/android?initiatePurchaseFlow=true&asin=B0DVPZRNLZ"
             ],
             "isClickable": true
         },
@@ -65,8 +65,8 @@
             "imageUrl": "https://raw.githubusercontent.com/Agram56/Traffics_2025/main/Roblox_data/brainrott_panel_low.jpg",
             "iconUrl": "https://raw.githubusercontent.com/Agram56/Traffics_2025/refs/heads/main/Roblox_data/brainrot_icon_114.png",
             "links": [
-                "https://play.google.com/store/apps/details?id=com.minicraft.pro&hl=en",
-                "https://apps.apple.com/us/app/minicraft-exploration/id1234567890"
+               "amzn://apps/android?initiatePurchaseFlow=true&asin=B0FJMPMZ3P",
+                "amzn://apps/android?initiatePurchaseFlow=true&asin=B0BXQ6XFZL"
             ],
             "isClickable": true
         },
@@ -107,8 +107,8 @@
             "imageUrl": "https://raw.githubusercontent.com/Agram56/Traffics_2025/refs/heads/main/Roblox_data/Steal_the_cover.png",
             "iconUrl": "https://raw.githubusercontent.com/Agram56/Traffics_2025/refs/heads/main/Roblox_data/Steal_the_icon.png",
             "links": [
-                "https://play.google.com/store/apps/details?id=com.roblox.client&hl=en",
-                "https://apps.apple.com/us/app/roblox/id431946152"
+                "amzn://apps/android?initiatePurchaseFlow=true&asin=B0FJMPMZ3P",
+                "amzn://apps/android?initiatePurchaseFlow=true&asin=B0BXQ6XFZL"
             ],
             "isClickable": true
         },
