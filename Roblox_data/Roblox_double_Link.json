@@ -16,7 +16,7 @@
             "iconUrl": "https://raw.githubusercontent.com/Agram56/Traffics_2025/main/Roblox_data/barry_icon.png",
             "links": [
                 "amzn://apps/android?initiatePurchaseFlow=true&asin=B0DVPZRNLZ",
-                "amzn://apps/android?initiatePurchaseFlow=true&asin=B0DVPZRNLZ"
+                "amzn://apps/android?initiatePurchaseFlow=true&asin=B0BXHMVXHF"
             ],
             "isClickable": true
         },
@@ -26,7 +26,7 @@
             "iconUrl": "https://raw.githubusercontent.com/Agram56/Traffics_2025/refs/heads/main/Roblox_data/99_icon.png",
             "links": [
                 "amzn://apps/android?initiatePurchaseFlow=true&asin=B0G2YNQTYS",
-                "amzn://apps/android?initiatePurchaseFlow=true&asin=B0G2YNQTYS"
+                "amzn://apps/android?initiatePurchaseFlow=true&asin=B0G3CJ4QCY"
             ],
             "isClickable": true
         },
@@ -55,8 +55,8 @@
             "imageUrl": "https://raw.githubusercontent.com/Agram56/Traffics_2025/main/Roblox_data/piggy_panel.png",
             "iconUrl": "https://raw.githubusercontent.com/Agram56/Traffics_2025/main/Roblox_data/piggy_icon.png",
             "links": [
-                "https://play.google.com/store/apps/details?id=com.minicraft.pro&hl=en",
-                "https://apps.apple.com/us/app/minicraft-exploration/id1234567890"
+                "amzn://apps/android?initiatePurchaseFlow=true&asin=B0DW92915V",
+                "amzn://apps/android?initiatePurchaseFlow=true&asin=B0DW92915V"
             ],
             "isClickable": true
         },
@@ -113,11 +113,21 @@
             "isClickable": true
         },
         {
+            "title": "99 Nights in the Forest",
+            "imageUrl": "https://raw.githubusercontent.com/Agram56/Traffics_2025/refs/heads/main/Roblox_data/99_cover.png",
+            "iconUrl": "https://raw.githubusercontent.com/Agram56/Traffics_2025/refs/heads/main/Roblox_data/99_icon.png",
+            "links": [
+                "amzn://apps/android?initiatePurchaseFlow=true&asin=B0G2YNQTYS",
+                "amzn://apps/android?initiatePurchaseFlow=true&asin=B0G3CJ4QCY"
+            ],
+            "isClickable": true
+        },
+        {
            "title": "BARRY PRISON RUN!",
             "imageUrl": "https://raw.githubusercontent.com/Agram56/Traffics_2025/main/Roblox_data/Barry_panel.png",
             "iconUrl": "https://raw.githubusercontent.com/Agram56/Traffics_2025/main/Roblox_data/barry_icon.png",
             "links": [
-                "amzn://apps/android?initiatePurchaseFlow=true&asin=B0FP2WX27D",
+                "amzn://apps/android?initiatePurchaseFlow=true&asin=B0DVPZRNLZ",
                 "amzn://apps/android?initiatePurchaseFlow=true&asin=B0FP2WX27D"
             ],
             "isClickable": true
