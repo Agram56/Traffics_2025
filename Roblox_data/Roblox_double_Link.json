@@ -17,7 +17,7 @@
             "links": [
                 "amzn://apps/android?initiatePurchaseFlow=true&asin=B0DVPZRNLZ",
                 "amzn://apps/android?initiatePurchaseFlow=true&asin=B0BXHMVXHF",
-                "amzn://apps/android?initiatePurchaseFlow=true&asin=B0GJMXZ2SF"
+                "amzn://apps/android?initiatePurchaseFlow=true&asin=B0BXHMVXHF"
             ],
             "isClickable": true
         },
@@ -130,7 +130,7 @@
             "links": [
                "amzn://apps/android?initiatePurchaseFlow=true&asin=B0DVPZRNLZ",
                 "amzn://apps/android?initiatePurchaseFlow=true&asin=B0BXHMVXHF",
-                "amzn://apps/android?initiatePurchaseFlow=true&asin=B0GJMXZ2SF"
+                "amzn://apps/android?initiatePurchaseFlow=true&asin=B0BXHMVXHF"
             ],
             "isClickable": true
         },
