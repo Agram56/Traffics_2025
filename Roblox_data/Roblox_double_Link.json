@@ -52,12 +52,12 @@
             "isClickable": true
         },
         {
-           "title": "Escape from Piggy",
-            "imageUrl": "https://raw.githubusercontent.com/Agram56/Traffics_2025/main/Roblox_data/piggy_panel.png",
-            "iconUrl": "https://raw.githubusercontent.com/Agram56/Traffics_2025/main/Roblox_data/piggy_icon.png",
+           "title": "Geometry Dash",
+            "imageUrl": "https://raw.githubusercontent.com/Agram56/Traffics_2025/refs/heads/main/Roblox_data/geometry_cover.png",
+            "iconUrl": "https://raw.githubusercontent.com/Agram56/Traffics_2025/refs/heads/main/Roblox_data/geometry_icon.png",
             "links": [
-                "amzn://apps/android?initiatePurchaseFlow=true&asin=B0DW92915V",
-                "amzn://apps/android?initiatePurchaseFlow=true&asin=B0DW92915V"
+                "amzn://apps/android?initiatePurchaseFlow=true&asin=B0DNW8VRY4",
+                "amzn://apps/android?initiatePurchaseFlow=true&asin=B0DNW8VRY4"
             ],
             "isClickable": true
         },
