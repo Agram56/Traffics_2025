@@ -173,6 +173,16 @@
                 "amzn://apps/android?initiatePurchaseFlow=true&asin=B0BXQ6XFZL"
             ],
             "isClickable": true
+        },
+        {
+            "title": "Brookhaven Gangster City Crime",
+            "imageUrl": "https://raw.githubusercontent.com/Agram56/Traffics_2025/refs/heads/main/Roblox_data/brookhaven_gta_cover.png",
+            "iconUrl": "https://raw.githubusercontent.com/Agram56/Traffics_2025/refs/heads/main/Roblox_data/Brookhaven_gta_icon.png",
+            "links": [
+                "amzn://apps/android?initiatePurchaseFlow=true&asin=B0GPNM9QQM",
+                "amzn://apps/android?initiatePurchaseFlow=true&asin=B0GPNM9QQM"
+            ],
+            "isClickable": true
         }
     ]
 }
