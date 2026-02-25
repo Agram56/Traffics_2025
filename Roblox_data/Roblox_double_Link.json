@@ -183,6 +183,16 @@
                 "amzn://apps/android?initiatePurchaseFlow=true&asin=B0GPNM9QQM"
             ],
             "isClickable": true
+        },
+        {
+            "title": "Brainrot Melon Sandbox",
+            "imageUrl": "https://raw.githubusercontent.com/Agram56/Traffics_2025/refs/heads/main/Roblox_data/cover_sandbox.png",
+            "iconUrl": "https://raw.githubusercontent.com/Agram56/Traffics_2025/refs/heads/main/Roblox_data/sandbox_icon.png",
+            "links": [
+                "amzn://apps/android?initiatePurchaseFlow=true&asin=B0FM4PQ2QF",
+                "amzn://apps/android?initiatePurchaseFlow=true&asin=B0GJR5B37J"
+            ],
+            "isClickable": true
         }
     ]
 }
