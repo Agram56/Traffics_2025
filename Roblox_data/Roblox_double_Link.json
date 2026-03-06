@@ -42,6 +42,16 @@
             "isClickable": true
         },
         {
+            "title": "Fish in The Lake",
+            "imageUrl": "https://raw.githubusercontent.com/Agram56/Traffics_2025/refs/heads/main/Roblox_data/Fish_cover.png",
+            "iconUrl": "https://raw.githubusercontent.com/Agram56/Traffics_2025/refs/heads/main/Roblox_data/fish_icon.png",
+            "links": [
+                "amzn://apps/android?initiatePurchaseFlow=true&asin=B0GR9KQMY6",
+                "amzn://apps/android?initiatePurchaseFlow=true&asin=B0GR9KQMY6"
+            ],
+            "isClickable": true
+        },
+        {
             "title": "Escape Baby Bobby",
             "imageUrl": "https://raw.githubusercontent.com/Agram56/Traffics_2025/refs/heads/main/Roblox_data/bobby_cover.png",
             "iconUrl": "https://raw.githubusercontent.com/Agram56/Traffics_2025/refs/heads/main/Roblox_data/bobby_icon.png",
@@ -201,6 +211,16 @@
             "links": [
                 "amzn://apps/android?initiatePurchaseFlow=true&asin=B0FM4PQ2QF",
                 "amzn://apps/android?initiatePurchaseFlow=true&asin=B0GJR5B37J"
+            ],
+            "isClickable": true
+        },
+        {
+            "title": "Fish in The Lake",
+            "imageUrl": "https://raw.githubusercontent.com/Agram56/Traffics_2025/refs/heads/main/Roblox_data/Fish_cover.png",
+            "iconUrl": "https://raw.githubusercontent.com/Agram56/Traffics_2025/refs/heads/main/Roblox_data/fish_icon.png",
+            "links": [
+                "amzn://apps/android?initiatePurchaseFlow=true&asin=B0GR9KQMY6",
+                "amzn://apps/android?initiatePurchaseFlow=true&asin=B0GR9KQMY6"
             ],
             "isClickable": true
         }
